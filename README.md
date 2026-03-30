@@ -21,35 +21,65 @@ All work is organized according to the five tasks outlined in the course brief, 
 # REPOSITORY STRUCTURE
 
 digital-literacy-project/
+
 │
+
 ├── README.md
+
 │
+
 ├── report/
+
 │   └── Project_Report.pdf
+
 │
+
 ├── task-1-presentation/
+
 │   └── infographic.png 
+
 │
+
 ├── task-2-portfolio/
+
 │   ├── github account.png
+
 │   ├── kaggle account.png
+
 │   ├── linkedin account.png
+
 │   └── researchgate account.png
+
 │
+
 ├── task-3-platforms/
+
 │   ├── task-3-platforms.png
+
 │   ├── google-form.png
+
 │   ├── excel sheet.png
+
 │   └── 
+
 │
+
 ├── task-4-email-etiquette/
+
 │   ├── 
+
 │   ├── task-4-email-etiquette.docx
+
 │   └── social-media-checklist.txt
+
 │
+
 ├── task-5-cybercrime/
+
 │   ├── casestudy.pdf
+
 │   └── prevention-checklist.txt
+
 │
 
 
